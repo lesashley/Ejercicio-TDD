@@ -1,0 +1,22 @@
+{
+  "name": "ejercicio",
+  "version": "1.0.0",
+  "description": "example-tdd",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lesashley/Ejercicio-TDD.git"
+  },
+  "keywords": [
+    "test-td-ejemplo"
+  ],
+  "author": "lesashley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lesashley/Ejercicio-TDD/issues"
+  },
+  "homepage": "https://github.com/lesashley/Ejercicio-TDD#readme"
+}
